@@ -5,4 +5,4 @@ te permite entender el mercado, en ella podemos encontrar los mercados de divisa
 gráficos totalmente personalizables, Análisis los principales mercados de divisas del mundo
 y busque cambios importantes con el Market analyzer, Automatice la ejecución de su comercio de
 divisas a través del creador de
-estrategias jjj
+estrategias jjjjjjjuytr
